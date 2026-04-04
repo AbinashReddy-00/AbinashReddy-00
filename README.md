@@ -2,4 +2,3 @@
 
 ![My Animated Intro](./Gif%20-%20Copy.gif)
 
-HI There.. still working
