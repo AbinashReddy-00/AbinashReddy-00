@@ -1,16 +1,13 @@
-## Hi there 👋
+<style>
+  @keyframes glow {
+    0%, 100% { color: #00ff00; text-shadow: 0 0 10px #00ff00; }
+    50% { color: #0088ff; text-shadow: 0 0 20px #0088ff; }
+  }
+  .profile-name {
+    font-size: 3em;
+    font-weight: bold;
+    animation: glow 2s ease-in-out infinite;
+  }
+</style>
 
-<!--
-**Badevil069/Badevil069** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 class="profile-name">Badevil069</h1>
