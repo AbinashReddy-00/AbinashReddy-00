@@ -1,4 +1,10 @@
-![Profile Badge](https://img.shields.io/badge/Badevil069-Violet?style=flat-square&logoColor=white&labelColor=6A0572&color=8B00FF) ![Student Badge](https://img.shields.io/badge/Student-blue?style=flat-square&logoColor=white&labelColor=0066cc&color=1e90ff)
+# Welcome to My Profile! 👋
 
-![My Animated Intro](./Gif%20-%20Copy.gif)
+![Profile GIF](https://github.com/Badevil069/Badevil069/raw/main/Gif%20-%20Copy.gif)
 
+---
+
+### About Me
+Hello! Welcome to my GitHub profile. I'm passionate about coding and creating cool projects.
+
+Feel free to explore my repositories and connect with me!
