@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Abinash Reddy
+# 👋 Hey,
 
 ![Profile GIF](https://github.com/AbinashReddy-00/AbinashReddy-00/raw/main/Gif%20-%20Copy.gif)
 
@@ -87,29 +87,6 @@ I'm a passionate **CSE Student with Cybersecurity Specialization** dedicated to 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
 
 </div>
-
----
-
-## 💻 Featured Projects
-
-Coming Soon! Check back for exciting projects including:
-- 🔍 **AI-Powered Vulnerability Scanner** - Using ML for threat detection
-- 🕸️ **Network Traffic Analyzer with RAG** - Intelligent packet analysis system
-- 🛡️ **Autonomous Network Security Monitor** - Real-time threat detection
-- 🤖 **RAG-based Cyber Threat Intelligence** - Retrieval system for security insights
-- 🌐 **Network Architecture Simulator** - TCP/IP protocol implementation
-
----
-
-## 🎯 Currently Learning & Exploring
-
-- 🔴 Advanced Penetration Testing & Red Teaming
-- 🔴 Network Protocols & Deep Packet Inspection
-- 🔴 AI/ML Applications in Cybersecurity
-- 🔴 Retrieval-Augmented Generation (RAG) Systems
-- 🔴 Cloud Security (AWS, Azure)
-- 🔴 Incident Response & Forensics
-- 🔴 Secure Coding & Cryptography
 
 ---
 
