@@ -1,5 +1,10 @@
 # 👋 Hey,
-
+[![CSE Student](https://img.shields.io/badge/CSE%20Student-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/AbinashReddy-00)
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity%20Specialist-FF6B6B?style=flat-square&logoColor=white)](https://github.com/AbinashReddy-00)
+[![Network Enthusiast](https://img.shields.io/badge/Network%20Enthusiast-9C27B0?style=flat-square&logoColor=white)](https://github.com/AbinashReddy-00)
+[![AI/ML Learner](https://img.shields.io/badge/AI%2FML%20Learner-FFD700?style=flat-square&logoColor=black)](https://github.com/AbinashReddy-00)
+[![RAG Developer](https://img.shields.io/badge/RAG%20Developer-FF1493?style=flat-square&logoColor=white)](https://github.com/AbinashReddy-00)
+[![Bug Bounty Hunter](https://img.shields.io/badge/Bug%20Bounty%20Hunter-00BFFF?style=flat-square&logoColor=white)](https://github.com/AbinashReddy-00)
 ![Profile GIF](https://github.com/AbinashReddy-00/AbinashReddy-00/raw/main/Gif%20-%20Copy.gif)
 
 ---
