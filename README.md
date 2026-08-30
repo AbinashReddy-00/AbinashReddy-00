@@ -53,25 +53,8 @@ I'm a passionate **CSE Student with Cybersecurity Specialization** dedicated to 
 
 ---
 
-##  Let's Connect & Collaborate
-
-I'm always interested in:
-- 🤝 Collaborating on security, networking, and AI/ML projects
-- 💬 Discussing cybersecurity, networks, and AI trends
-- 🎓 Learning from the community and sharing knowledge
-- 🐛 Contributing to open-source security and ML tools
-- 🔗 Building intelligent security solutions with RAG & AI
-
----
-
-> **"In the intersection of networks, security, and artificial intelligence lies the future of digital protection."**
-
----
-
 <div align="center">
 
-⭐ If you find my work useful, please consider giving it a star! ⭐
-
-**Let's build secure, intelligent systems together! 🚀**
+  **Let's Connect & Collaborate**
 
 </div>
