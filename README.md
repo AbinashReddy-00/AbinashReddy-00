@@ -8,7 +8,7 @@
 
 I'm a passionate **Cybersecurity Student** dedicated to protecting digital assets and mastering the art of ethical hacking. With a strong foundation in security principles and hands-on experience in penetration testing, I strive to build a career defending against cyber threats and contributing to a safer digital world.
 
-💡 **Current Focus:** Network Security | Vulnerability Assessment | Ethical Hacking | Penetration Testing  
+💡 **Current Focus:** Network Security | Vulnerability Assessment | Ethical Hacking | Penetration Testing | AI-ML| RAG 
 🎓 **Education:** Cybersecurity Student  
 🔒 **Mission:** Making the internet safer, one vulnerability at a time
 
@@ -41,7 +41,7 @@ I'm a passionate **Cybersecurity Student** dedicated to protecting digital asset
 
 [![Student Badge](https://img.shields.io/badge/Student-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/AbinashReddy-00)
 [![Cybersecurity Badge](https://img.shields.io/badge/Cybersecurity-FF6B6B?style=flat-square&logoColor=white)](https://github.com/AbinashReddy-00)
-[![Ethical Hacker](https://img.shields.io/badge/Ethical%20Hacker-4CAF50?style=flat-square&logoColor=white)](https://github.com/AbinashReddy-00)
+[![CCNA](https://img.shields.io/badge/Ethical%20Hacker-4CAF50?style=flat-square&logoColor=white)](https://github.com/AbinashReddy-00)
 [![Security Enthusiast](https://img.shields.io/badge/Security%20Enthusiast-FFA500?style=flat-square&logoColor=white)](https://github.com/AbinashReddy-00)
 [![Bug Bounty Hunter](https://img.shields.io/badge/Bug%20Bounty%20Hunter-FF1493?style=flat-square&logoColor=white)](https://github.com/AbinashReddy-00)
 
@@ -67,26 +67,6 @@ I'm a passionate **Cybersecurity Student** dedicated to protecting digital asset
 
 </div>
 
----
-
-## 💻 Featured Projects
-
-Coming Soon! Check back for exciting cybersecurity projects including:
-- 🔍 Vulnerability Scanner
-- 🛡️ Network Packet Analyzer
-- 🔐 Password Security Tester
-- 🌐 Web Application Security Tools
-
----
-
-## 🎯 Currently Learning
-
-- 🔴 Advanced Penetration Testing
-- 🔴 Cloud Security (AWS, Azure)
-- 🔴 Incident Response & Forensics
-- 🔴 Secure Coding Practices
-
----
 
 ## 📈 Let's Connect & Collaborate
 
