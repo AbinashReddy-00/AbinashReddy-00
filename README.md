@@ -21,46 +21,10 @@ I'm a passionate **CSE Student with Cybersecurity Specialization** dedicated to 
 
 ---
 
-## 🚀 Skills & Expertise
-
-### 🛡️ Cybersecurity & Networks
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-0047AB?style=for-the-badge&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-009FDF?style=for-the-badge&logoColor=white)
-
-### 🤖 AI/ML & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20Systems-FF00FF?style=for-the-badge&logoColor=white)
-
-### 💻 Programming & Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### 🌐 Networking & Infrastructure
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Networking](https://img.shields.io/badge/TCP%2FIP-0078D4?style=for-the-badge&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
-
-## 🎓 Certifications & Badges
+## 🎓
 
 [![CSE Student](https://img.shields.io/badge/CSE%20Student-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/AbinashReddy-00)
-[![Cybersecurity Specialist](https://img.shields.io/badge/Cybersecurity%20Specialist-FF6B6B?style=flat-square&logoColor=white)](https://github.com/AbinashReddy-00)
-[![Ethical Hacker](https://img.shields.io/badge/Ethical%20Hacker-4CAF50?style=flat-square&logoColor=white)](https://github.com/AbinashReddy-00)
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity%20Specialist-FF6B6B?style=flat-square&logoColor=white)](https://github.com/AbinashReddy-00)
 [![Network Enthusiast](https://img.shields.io/badge/Network%20Enthusiast-9C27B0?style=flat-square&logoColor=white)](https://github.com/AbinashReddy-00)
 [![AI/ML Learner](https://img.shields.io/badge/AI%2FML%20Learner-FFD700?style=flat-square&logoColor=black)](https://github.com/AbinashReddy-00)
 [![RAG Developer](https://img.shields.io/badge/RAG%20Developer-FF1493?style=flat-square&logoColor=white)](https://github.com/AbinashReddy-00)
@@ -80,7 +44,6 @@ I'm a passionate **CSE Student with Cybersecurity Specialization** dedicated to 
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbinashReddy-00)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
@@ -102,7 +65,7 @@ I'm a passionate **CSE Student with Cybersecurity Specialization** dedicated to 
 
 ---
 
-## 📈 Let's Connect & Collaborate
+##  Let's Connect & Collaborate
 
 I'm always interested in:
 - 🤝 Collaborating on security, networking, and AI/ML projects
