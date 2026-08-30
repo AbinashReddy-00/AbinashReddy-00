@@ -1,6 +1,6 @@
 # 👋 Hey,
 [![CSE Student](https://img.shields.io/badge/CSE%20Student-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/AbinashReddy-00)
-[![Cybersecurity](https://img.shields.io/badge/Cybersecurity%20Specialist-FF6B6B?style=flat-square&logoColor=white)](https://github.com/AbinashReddy-00)
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity%20Student-FF6B6B?style=flat-square&logoColor=white)](https://github.com/AbinashReddy-00)
 [![Network Enthusiast](https://img.shields.io/badge/Network%20Enthusiast-9C27B0?style=flat-square&logoColor=white)](https://github.com/AbinashReddy-00)
 [![AI/ML Learner](https://img.shields.io/badge/AI%2FML%20Learner-FFD700?style=flat-square&logoColor=black)](https://github.com/AbinashReddy-00)
 [![RAG Developer](https://img.shields.io/badge/RAG%20Developer-FF1493?style=flat-square&logoColor=white)](https://github.com/AbinashReddy-00)
@@ -9,7 +9,7 @@
 
 ---
 
-## 🛡️ About Me
+##  About Me
 
 I'm a passionate **CSE Student with Cybersecurity Specialization** dedicated to protecting digital assets, mastering ethical hacking, and exploring cutting-edge technologies. With a strong foundation in security principles, hands-on experience in penetration testing, and growing interests in **AI/ML and RAG systems**, I'm committed to building a career that bridges cybersecurity with emerging technologies.
 
@@ -25,15 +25,6 @@ I'm a passionate **CSE Student with Cybersecurity Specialization** dedicated to 
 🔒 **Mission:** Making the internet safer through security innovation and intelligent systems
 
 ---
-
-## 🎓
-
-[![CSE Student](https://img.shields.io/badge/CSE%20Student-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/AbinashReddy-00)
-[![Cybersecurity](https://img.shields.io/badge/Cybersecurity%20Specialist-FF6B6B?style=flat-square&logoColor=white)](https://github.com/AbinashReddy-00)
-[![Network Enthusiast](https://img.shields.io/badge/Network%20Enthusiast-9C27B0?style=flat-square&logoColor=white)](https://github.com/AbinashReddy-00)
-[![AI/ML Learner](https://img.shields.io/badge/AI%2FML%20Learner-FFD700?style=flat-square&logoColor=black)](https://github.com/AbinashReddy-00)
-[![RAG Developer](https://img.shields.io/badge/RAG%20Developer-FF1493?style=flat-square&logoColor=white)](https://github.com/AbinashReddy-00)
-[![Bug Bounty Hunter](https://img.shields.io/badge/Bug%20Bounty%20Hunter-00BFFF?style=flat-square&logoColor=white)](https://github.com/AbinashReddy-00)
 
 ---
 
