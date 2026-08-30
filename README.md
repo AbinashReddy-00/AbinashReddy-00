@@ -28,14 +28,6 @@ I'm a passionate **CSE Student with Cybersecurity Specialization** dedicated to 
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AbinashReddy-00&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbinashReddy-00&layout=compact&theme=radical)
-
----
-
 ## 🔗 Connect With Me
 
 <div align="center">
